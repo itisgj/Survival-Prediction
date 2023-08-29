@@ -19,7 +19,7 @@ get_ipython().run_line_magic('matplotlib', 'inline')
 # In[7]:
 
 
-train = pd.read_csv(r'D:\Programming_practice\python1\titanic\train.csv')
+train = pd.read_csv(r'train.csv')
 
 
 # In[8]:
